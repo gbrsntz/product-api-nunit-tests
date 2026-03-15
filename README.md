@@ -78,9 +78,3 @@ dotnet test ProductsApi.Tests
 - `ProductServiceTests`: validam as regras da camada de serviço, como cadastro válido, nome obrigatório, preço maior que zero, busca por id, atualização e exclusão.
 - `ProductApiIntegrationTests`: validam o comportamento real da API com `HttpClient`, cobrindo sucesso no `GET`, criação no `POST`, atualização no `PUT` e exclusão no `DELETE`.
 
-## Como apresentar em sala
-
-1. Explique rapidamente a arquitetura em camadas e mostre que o repositório é em memória para simplificar o trabalho.
-2. Abra a interface web, cadastre um produto, edite e exclua para demonstrar o CRUD funcionando.
-3. Mostre os endpoints no controller e diga que as regras ficam no service.
-4. Finalize executando `dotnet test` para provar os testes unitários e de integração.
