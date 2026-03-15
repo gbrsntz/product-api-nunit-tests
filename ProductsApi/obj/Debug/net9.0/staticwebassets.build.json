@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "izMhEwqvmin8kOt4tinPIYQHWoH4yWSUy0Vo8PYQ0Xo=",
+  "Source": "ProductsApi",
+  "BasePath": "_content/ProductsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductsApi\\wwwroot",
+      "Source": "ProductsApi",
+      "ContentRoot": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\",
+      "BasePath": "_content/ProductsApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\eyc84tp2ui-q19w5gd89e.gz",
+      "SourceId": "ProductsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ProductsApi",
+      "RelativePath": "index#[.{fingerprint=q19w5gd89e}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1s3u8nim1b",
+      "Integrity": "odIMn5LMOjIY63FHTmkSQEexoUxsEMXB6bEpDo3maAk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\g6mkpodx5h-tq77nej74v.gz",
+      "SourceId": "ProductsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ProductsApi",
+      "RelativePath": "styles#[.{fingerprint=tq77nej74v}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "varevlpmgw",
+      "Integrity": "SXsJWP07/SuSn6SqWzjVb5R1fHEx8w3BYs+XbLW9edE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\x30y6so5fr-44xmshi2ct.gz",
+      "SourceId": "ProductsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ProductsApi",
+      "RelativePath": "app#[.{fingerprint=44xmshi2ct}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vt84jqsvql",
+      "Integrity": "syCc/4Mn/dYyeC/fdixvsvvs+7zMee7mx8v0YPsT6/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\app.js",
+      "SourceId": "ProductsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\",
+      "BasePath": "_content/ProductsApi",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "44xmshi2ct",
+      "Integrity": "JHG+UEKkn+F+K4BV5V3azsDdqMGEq11UW8BnJLqcgHk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\index.html",
+      "SourceId": "ProductsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\",
+      "BasePath": "_content/ProductsApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q19w5gd89e",
+      "Integrity": "MtU3kKZnI6O01CfAmoZgjFGJr82wL2Afpjxu+PcmRS8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\styles.css",
+      "SourceId": "ProductsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\",
+      "BasePath": "_content/ProductsApi",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tq77nej74v",
+      "Integrity": "C34mWa1VU3iWs0RcTg72MtVc9UdhilyjM7x62YY2NDM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.44xmshi2ct.js",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\x30y6so5fr-44xmshi2ct.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000740192450"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1350"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"syCc/4Mn/dYyeC/fdixvsvvs+7zMee7mx8v0YPsT6/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JHG+UEKkn+F+K4BV5V3azsDdqMGEq11UW8BnJLqcgHk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "44xmshi2ct"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JHG+UEKkn+F+K4BV5V3azsDdqMGEq11UW8BnJLqcgHk="
+        }
+      ]
+    },
+    {
+      "Route": "app.44xmshi2ct.js",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JHG+UEKkn+F+K4BV5V3azsDdqMGEq11UW8BnJLqcgHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "44xmshi2ct"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JHG+UEKkn+F+K4BV5V3azsDdqMGEq11UW8BnJLqcgHk="
+        }
+      ]
+    },
+    {
+      "Route": "app.44xmshi2ct.js.gz",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\x30y6so5fr-44xmshi2ct.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"syCc/4Mn/dYyeC/fdixvsvvs+7zMee7mx8v0YPsT6/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "44xmshi2ct"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-syCc/4Mn/dYyeC/fdixvsvvs+7zMee7mx8v0YPsT6/I="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\x30y6so5fr-44xmshi2ct.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000740192450"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1350"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"syCc/4Mn/dYyeC/fdixvsvvs+7zMee7mx8v0YPsT6/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JHG+UEKkn+F+K4BV5V3azsDdqMGEq11UW8BnJLqcgHk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JHG+UEKkn+F+K4BV5V3azsDdqMGEq11UW8BnJLqcgHk="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JHG+UEKkn+F+K4BV5V3azsDdqMGEq11UW8BnJLqcgHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JHG+UEKkn+F+K4BV5V3azsDdqMGEq11UW8BnJLqcgHk="
+        }
+      ]
+    },
+    {
+      "Route": "app.js.gz",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\x30y6so5fr-44xmshi2ct.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"syCc/4Mn/dYyeC/fdixvsvvs+7zMee7mx8v0YPsT6/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-syCc/4Mn/dYyeC/fdixvsvvs+7zMee7mx8v0YPsT6/I="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\eyc84tp2ui-q19w5gd89e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001092896175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "914"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"odIMn5LMOjIY63FHTmkSQEexoUxsEMXB6bEpDo3maAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MtU3kKZnI6O01CfAmoZgjFGJr82wL2Afpjxu+PcmRS8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MtU3kKZnI6O01CfAmoZgjFGJr82wL2Afpjxu+PcmRS8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MtU3kKZnI6O01CfAmoZgjFGJr82wL2Afpjxu+PcmRS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MtU3kKZnI6O01CfAmoZgjFGJr82wL2Afpjxu+PcmRS8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\eyc84tp2ui-q19w5gd89e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"odIMn5LMOjIY63FHTmkSQEexoUxsEMXB6bEpDo3maAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-odIMn5LMOjIY63FHTmkSQEexoUxsEMXB6bEpDo3maAk="
+        }
+      ]
+    },
+    {
+      "Route": "index.q19w5gd89e.html",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\eyc84tp2ui-q19w5gd89e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001092896175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "914"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"odIMn5LMOjIY63FHTmkSQEexoUxsEMXB6bEpDo3maAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MtU3kKZnI6O01CfAmoZgjFGJr82wL2Afpjxu+PcmRS8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q19w5gd89e"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MtU3kKZnI6O01CfAmoZgjFGJr82wL2Afpjxu+PcmRS8="
+        }
+      ]
+    },
+    {
+      "Route": "index.q19w5gd89e.html",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MtU3kKZnI6O01CfAmoZgjFGJr82wL2Afpjxu+PcmRS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q19w5gd89e"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MtU3kKZnI6O01CfAmoZgjFGJr82wL2Afpjxu+PcmRS8="
+        }
+      ]
+    },
+    {
+      "Route": "index.q19w5gd89e.html.gz",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\eyc84tp2ui-q19w5gd89e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"odIMn5LMOjIY63FHTmkSQEexoUxsEMXB6bEpDo3maAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q19w5gd89e"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-odIMn5LMOjIY63FHTmkSQEexoUxsEMXB6bEpDo3maAk="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\g6mkpodx5h-tq77nej74v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000766871166"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsJWP07/SuSn6SqWzjVb5R1fHEx8w3BYs+XbLW9edE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C34mWa1VU3iWs0RcTg72MtVc9UdhilyjM7x62YY2NDM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C34mWa1VU3iWs0RcTg72MtVc9UdhilyjM7x62YY2NDM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C34mWa1VU3iWs0RcTg72MtVc9UdhilyjM7x62YY2NDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C34mWa1VU3iWs0RcTg72MtVc9UdhilyjM7x62YY2NDM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\g6mkpodx5h-tq77nej74v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsJWP07/SuSn6SqWzjVb5R1fHEx8w3BYs+XbLW9edE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsJWP07/SuSn6SqWzjVb5R1fHEx8w3BYs+XbLW9edE="
+        }
+      ]
+    },
+    {
+      "Route": "styles.tq77nej74v.css",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\g6mkpodx5h-tq77nej74v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000766871166"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsJWP07/SuSn6SqWzjVb5R1fHEx8w3BYs+XbLW9edE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C34mWa1VU3iWs0RcTg72MtVc9UdhilyjM7x62YY2NDM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tq77nej74v"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C34mWa1VU3iWs0RcTg72MtVc9UdhilyjM7x62YY2NDM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.tq77nej74v.css",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C34mWa1VU3iWs0RcTg72MtVc9UdhilyjM7x62YY2NDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tq77nej74v"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C34mWa1VU3iWs0RcTg72MtVc9UdhilyjM7x62YY2NDM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.tq77nej74v.css.gz",
+      "AssetFile": "C:\\Users\\Gabriel Gamer\\Documents\\CRUD in C#\\ProductsApi\\obj\\Debug\\net9.0\\compressed\\g6mkpodx5h-tq77nej74v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsJWP07/SuSn6SqWzjVb5R1fHEx8w3BYs+XbLW9edE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 14:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tq77nej74v"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsJWP07/SuSn6SqWzjVb5R1fHEx8w3BYs+XbLW9edE="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciamento de Produtos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="page">
+        <section class="hero">
+            <div>
+                <p class="eyebrow">Trabalho de Teste de Software</p>
+                <h1>Gerenciamento de Produtos</h1>
+                <p class="subtitle">CRUD simples em .NET com API REST, interface leve e testes com NUnit.</p>
+            </div>
+            <button id="reloadButton" class="ghost-button" type="button">Atualizar lista</button>
+        </section>
+
+        <section class="panel form-panel">
+            <div class="panel-header">
+                <h2 id="formTitle">Novo produto</h2>
+                <p>Preencha os campos para cadastrar ou editar um item.</p>
+            </div>
+
+            <form id="productForm" class="product-form">
+                <input id="productId" type="hidden">
+
+                <label>
+                    Nome
+                    <input id="name" type="text" placeholder="Ex.: Mouse Gamer" required>
+                </label>
+
+                <label>
+                    Preço
+                    <input id="price" type="number" min="0.01" step="0.01" placeholder="0,00" required>
+                </label>
+
+                <div class="actions">
+                    <button class="primary-button" type="submit">Salvar</button>
+                    <button id="cancelButton" class="secondary-button" type="button">Cancelar edição</button>
+                </div>
+            </form>
+
+            <p id="message" class="message" aria-live="polite"></p>
+        </section>
+
+        <section class="panel table-panel">
+            <div class="panel-header">
+                <h2>Produtos cadastrados</h2>
+                <p>Listagem consumindo os endpoints da API.</p>
+            </div>
+
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Nome</th>
+                            <th>Preço</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="productsTableBody">
+                        <tr>
+                            <td colspan="4" class="empty-state">Carregando produtos...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
